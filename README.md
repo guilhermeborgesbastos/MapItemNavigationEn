@@ -6,7 +6,7 @@ Recently  I needed to create a dynamic map where a list of stores that were near
 | ![ContactPikerAnimated](https://meucomercioeletronico.com/tutorial/MapItemNavigationEn.gif)  | [![VIDEO](https://img.youtube.com/vi/rq8Rd_VVBAg/0.jpg)](https://www.youtube.com/watch?v=rq8Rd_VVBAg) |
 
 
-## Instalação e uso
+## Installation
 Just import the Git project for your favorite editor and make the exchange of API_KEY.
 
 To do this edit the file AndroidManifest.xml line 25.
