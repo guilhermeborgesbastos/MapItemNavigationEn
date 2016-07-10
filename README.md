@@ -1,5 +1,5 @@
 # Map Item Navigation
-Recently in one of the projects needed to create a dynamic map where a list of stores that were to user location 1Km should be displayed. I took the day today to move all the code developed for a separate project, I will share it with you in this article.
+Recently  I needed to create a dynamic map where a list of stores that were near of user location should be displayed. I took the day today to move all the code developed for a separate project, I will share it with you in this article.
 
 | Gif | Video |
 | --- | --- |
